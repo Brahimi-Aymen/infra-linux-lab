@@ -1,5 +1,4 @@
-# infra-linux-lab
-# Infra Linux Lab (Homelab)
+# Infra Linux Lab
 
 ## Objectif
 Construire une infrastructure type PME pour démontrer des compétences SysAdmin / Réseaux / DevOps :
